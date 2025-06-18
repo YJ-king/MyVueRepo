@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/mum1.png" width="300" height="300" />
 
     <div class="wrapper">
-      <HelloWorld msg="You Pipelined it!" />
+      <HelloWorld msg="You Pipelined it!!!" />
     </div>
   </header>
 
