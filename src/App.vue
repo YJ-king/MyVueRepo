@@ -5,10 +5,9 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/wr-home-top.jpg" width="600" height="600" />
+    <img alt="Vue logo" class="logo" src="./assets/wr-home-top.jpg" width="1500" height="1102" />
 
     <div class="wrapper">
-      <HelloWorld msg="You Really Pipelined it!!!" />
     </div>
   </header>
 
